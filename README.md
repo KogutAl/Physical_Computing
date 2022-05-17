@@ -22,7 +22,6 @@ Um mit LED Birnen Licht zu erzeugen werden grundlegend die **LED-Birne**, ein **
 
 ### Der Anschluss funktioniert wie folgt :
 
-![](LED_rot_Innenleben.png)
 
 - Die LED wird an eine Energiequelle (z.B. Batterie) angeschlossen/gelötet
 
