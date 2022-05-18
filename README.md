@@ -3,6 +3,9 @@
 # LED - Lichtemittierende Diode
 (*Light emitting diode*)
  &nbsp;
+ 
+ ![LED Gehäuse](https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_843,q_auto,w_1500/c_pad,h_843,w_1500/F2285988-01?pgw=1&pgwact=1)
+ 
 ---
 ### **1) Wofür brauche ich LEDs?**
 ---
