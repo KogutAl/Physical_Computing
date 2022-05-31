@@ -86,14 +86,12 @@ Hier wird dir die Berechnung abgenommen:
 
 # Mystery Component
 #### (*Auflösung: Potentiometer*)
- &nbsp;
 
 ![Bild zeigt ein Potentiometer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Potentiometer.jpg/220px-Potentiometer.jpg)
 
 ---
 ### **Was ist ein Potentiometer?**
 ---
- &nbsp;
 - Ein Widerstand ist ein grundlegendes elektrisches Element mit zwei Anschlüssen, das dem elektrischen Stromfluss widersteht, wenn eine Spannung zwischen den beiden Anschlüssen angelegt wird. Durch Hinzufügen eines beweglichen dritten Anschlusses wird der Widerstand in ein Potentiometer umgewandelt. Daher kann ein Potentiometer als ein Widerstand mit drei Anschlüssen mit einem variablen oder beweglichen Kontakt definiert werden, der eine Spannung in zwei Teile teilt.
  &nbsp;
 ---
@@ -124,9 +122,9 @@ Um dies zu erreichen werden drei Drähte mit dem Board verbunden
 - Der erste Draht geht von einem der äußeren Stifte des Potentiometers auf Masse (GND)
 - Der zweite geht von 5 Volt zum anderen äußeren Stift des Potentiometers
 - Der dritte Draht geht vom analogen Eingang 2 zum mittleren Pin des Potentiometers
-
+ &nbsp;
 ![Anschluss des Potentiometers an Arduino-Board](https://www.exp-tech.de/media/image/39/a4/5b/xpotentiometer5c4f09d4098a5.jpg.pagespeed.ic.45UiUsDwnW.webp)
-
+ &nbsp;
 - Durch Drehen der Welle des Potentiometers wird der Widerstandswert auf beiden Seiten des Wischers geändert
 - Dadurch wird die relative "Nähe" dieses Pins auf 5 Volt und Masse geändert
 - nun haben wir einen analogen Eingang
