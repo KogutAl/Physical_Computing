@@ -75,7 +75,6 @@ Hier wird dir die Berechnung abgenommen:
 ---
 ### **3) Was ist mir unklar?**
 ---
- &nbsp;
 - Die Methode zur Erprobung
 - somit die Rollen/Unterschiede der verschiedenen Werte (Ampere, Ohm etc.)
  &nbsp;
