@@ -138,6 +138,7 @@ Um dies zu erreichen werden drei Drähte mit dem Board verbunden
  &nbsp;
 ---
 
-####QUellen:
-<https://www.exp-tech.de/blog/arduino-tutorial-potentiometer>
-<https://funduino.de/nr-7-potentiometer>
+#### Quellen:
+
+- <https://www.exp-tech.de/blog/arduino-tutorial-potentiometer>
+- <https://funduino.de/nr-7-potentiometer>
