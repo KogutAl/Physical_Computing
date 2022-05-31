@@ -79,3 +79,8 @@ Hier wird dir die Berechnung abgenommen:
 - Die Methode zur Erprobung
 - somit die Rollen/Unterschiede der verschiedenen Werte (Ampere, Ohm etc.)
  &nbsp;
+ 
+ --- 
+ &nbsp
+ ---
+
