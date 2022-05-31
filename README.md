@@ -86,6 +86,7 @@ Hier wird dir die Berechnung abgenommen:
 #### (*Auflösung: Potentiometer*)
  &nbsp;
 ![Bild zeigt ein Potentiometer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Potentiometer.jpg/220px-Potentiometer.jpg)
+![Bild zeigt ein Potentiometer](https://www.roboter-bausatz.de/media/image/ff/16/2d/Potentiometer-resize.png)
  &nbsp;
 ---
 ### **Was ist ein Potentiometer?**
@@ -142,3 +143,4 @@ Um dies zu erreichen werden drei Drähte mit dem Board verbunden
 
 - <https://www.exp-tech.de/blog/arduino-tutorial-potentiometer>
 - <https://funduino.de/nr-7-potentiometer>
+- <https://www.roboter-bausatz.de/projekte/arduino-potentiometer-beispiel-mit-led>
