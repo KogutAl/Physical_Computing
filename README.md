@@ -93,6 +93,7 @@ Hier wird dir die Berechnung abgenommen:
 ---
 ### **Was ist ein Potentiometer?**
 ---
+ &nbsp;
 Ein Widerstand ist ein grundlegendes elektrisches Element mit zwei Anschlüssen, das dem elektrischen Stromfluss widersteht, wenn eine Spannung zwischen den beiden Anschlüssen angelegt wird. Durch Hinzufügen eines beweglichen dritten Anschlusses wird der Widerstand in ein Potentiometer umgewandelt. Daher kann ein Potentiometer als ein Widerstand mit drei Anschlüssen mit einem variablen oder beweglichen Kontakt definiert werden, der eine Spannung in zwei Teile teilt.
  &nbsp;
 ---
@@ -141,6 +142,6 @@ Um dies zu erreichen werden drei Drähte mit dem Board verbunden
  &nbsp;
 ---
 
-####QUellen####
+####QUellen:
 <https://www.exp-tech.de/blog/arduino-tutorial-potentiometer>
 <https://funduino.de/nr-7-potentiometer>
