@@ -135,7 +135,7 @@ Um dies zu erreichen werden drei Drähte mit dem Board verbunden
 ![Schaltplan](https://www.roboter-bausatz.de/media/image/b1/7b/12/Potentiometer_Steckplatine.jpg)
 
  &nbsp;
-[Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing)
+[Verlinkung zum Arduino Code](https://www.roboter-bausatz.de/projekte/arduino-potentiometer-beispiel-mit-led)
 
  &nbsp;
 ---
