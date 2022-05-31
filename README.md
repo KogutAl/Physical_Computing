@@ -86,7 +86,6 @@ Hier wird dir die Berechnung abgenommen:
 #### (*Auflösung: Potentiometer*)
  &nbsp;
 ![Bild zeigt ein Potentiometer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Potentiometer.jpg/220px-Potentiometer.jpg)
-![Bild zeigt ein Potentiometer](https://www.roboter-bausatz.de/media/image/ff/16/2d/Potentiometer-resize.png)
  &nbsp;
 ---
 ### **Was ist ein Potentiometer?**
@@ -132,6 +131,8 @@ Um dies zu erreichen werden drei Drähte mit dem Board verbunden
 - Wenn die Welle ganz in die andere Richtung gedreht wird, gehen 5 Volt zum Stift
 - wir lesen 1023
 - Dazwischen gibt analogRead () eine Zahl zwischen 0 und 1023 zurück, die proportional zu der an den Pin angelegten Spannung ist.
+
+![Schaltplan](https://www.roboter-bausatz.de/media/image/b1/7b/12/Potentiometer_Steckplatine.jpg)
 
  &nbsp;
 [Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing)
