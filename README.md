@@ -81,14 +81,13 @@ Hier wird dir die Berechnung abgenommen:
  &nbsp;
  
  --- 
- &nbsp
  ---
 
 # Mystery Component
 #### (*Auflösung: Potentiometer*)
-
+ &nbsp;
 ![Bild zeigt ein Potentiometer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Potentiometer.jpg/220px-Potentiometer.jpg)
-
+ &nbsp;
 ---
 ### **Was ist ein Potentiometer?**
 ---
