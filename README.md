@@ -75,7 +75,73 @@ Hier wird dir die Berechnung abgenommen:
 ---
 ### **3) Was ist mir unklar?**
 ---
- &nbsp;
 - Die Methode zur Erprobung
 - somit die Rollen/Unterschiede der verschiedenen Werte (Ampere, Ohm etc.)
  &nbsp;
+ 
+ --- 
+ ---
+
+# Mystery Component
+#### (*Auflösung: Potentiometer*)
+ &nbsp;
+![Bild zeigt ein Potentiometer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Potentiometer.jpg/220px-Potentiometer.jpg)
+ &nbsp;
+---
+### **Was ist ein Potentiometer?**
+---
+- Ein Widerstand ist ein grundlegendes elektrisches Element mit zwei Anschlüssen, das dem elektrischen Stromfluss widersteht, wenn eine Spannung zwischen den beiden Anschlüssen angelegt wird. Durch Hinzufügen eines beweglichen dritten Anschlusses wird der Widerstand in ein Potentiometer umgewandelt. Daher kann ein Potentiometer als ein Widerstand mit drei Anschlüssen mit einem variablen oder beweglichen Kontakt definiert werden, der eine Spannung in zwei Teile teilt.
+ &nbsp;
+---
+### **Der Aufbau**
+---
+
+Unterschieden werden kann zwischen linearen und rotierenden Potentiometer. Beide bestehen sowohl aus vier Hauptkomponenten:
+
+-  zwei festen Klemmen
+-  einer beweglichen Klemme (Wischer genannt)
+-  einem Widerstandsstreifen oder einer Widerstandsspur
+-  Gehäuse
+
+Der einzige Unterschied zwischen den beiden Arten von Potentiometern besteht darin, dass bei einem linearen Potentiometer der Widerstandsstreifen auf einer geraden Spur angeordnet ist, während bei einem Drehpotentiometer der Widerstandsstreifen auf einer Kreisbahn angeordnet ist.
+
+ &nbsp;
+ 
+ ---
+### **Handhabung mit einem Arduinoboard**
+---
+Ein Potentiometer ist ein einfacher Regler, der einen variablen Widerstand liefert, den wir als Analogwert in das Arduino-Board einlesen können.
+
+- kann als Analogwert in Arduino-Board eingelesen werden
+- dieser Wert steuert hier die Rate bzw. Geschwindigkeit mit der eine LED blinkt
+
+Um dies zu erreichen werden drei Drähte mit dem Board verbunden
+
+- Der erste Draht geht von einem der äußeren Stifte des Potentiometers auf Masse (GND)
+- Der zweite geht von 5 Volt zum anderen äußeren Stift des Potentiometers
+- Der dritte Draht geht vom analogen Eingang 2 zum mittleren Pin des Potentiometers
+ &nbsp;
+![Anschluss des Potentiometers an Arduino-Board](https://www.exp-tech.de/media/image/39/a4/5b/xpotentiometer5c4f09d4098a5.jpg.pagespeed.ic.45UiUsDwnW.webp)
+ &nbsp;
+- Durch Drehen der Welle des Potentiometers wird der Widerstandswert auf beiden Seiten des Wischers geändert
+- Dadurch wird die relative "Nähe" dieses Pins auf 5 Volt und Masse geändert
+- nun haben wir einen analogen Eingang
+- Wenn die Welle ganz in eine Richtung gedreht wird, gehen 0 Volt zum Stift
+- wir lesen 0
+- Wenn die Welle ganz in die andere Richtung gedreht wird, gehen 5 Volt zum Stift
+- wir lesen 1023
+- Dazwischen gibt analogRead () eine Zahl zwischen 0 und 1023 zurück, die proportional zu der an den Pin angelegten Spannung ist.
+
+![Schaltplan](https://www.roboter-bausatz.de/media/image/b1/7b/12/Potentiometer_Steckplatine.jpg)
+
+ &nbsp;
+[Verlinkung zum Arduino Code](https://www.roboter-bausatz.de/projekte/arduino-potentiometer-beispiel-mit-led)
+
+ &nbsp;
+---
+
+#### Quellen:
+
+- <https://www.exp-tech.de/blog/arduino-tutorial-potentiometer>
+- <https://funduino.de/nr-7-potentiometer>
+- <https://www.roboter-bausatz.de/projekte/arduino-potentiometer-beispiel-mit-led>
