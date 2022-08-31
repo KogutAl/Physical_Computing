@@ -48,6 +48,8 @@ Um mit LED Birnen Licht zu erzeugen werden grundlegend die **LED-Birne**, ein **
  &nbsp;
 Wie bereits erwähnt, wird ein Strombegrenzungswiderstand benötigt, damit eine höhere Energiequelle nicht die LEDs durchschmort. Da es unterschiedliche Typen von LEDs auf dem Markt gibt, ist es essenziell herauszufinden, welchen Resistor für welche Art von LED verwendet werden muss, um eine erfolgreiche Energieweiterlung zu ermöglichen.
  &nbsp;
+ 
+  ![Bild zeigt einen Resistor](https://protosupplies.com/wp-content/uploads/2017/11/Resistor-10-Ohm-5-Closeup-CC.jpg)
 
 ### Dazu kann man 2 Methoden verwenden :
 ##### - Die theoretische Methode mit Hilfe einer Berechnung
